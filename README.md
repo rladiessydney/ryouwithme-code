@@ -1,8 +1,8 @@
 # ryouwithme-code
 
-This repo contains scraps of code that Jenny wrote while compiling [#RYouWithMe](https://rladiessydney.org/courses/ryouwithme/), a beginners course that walks new users through the process of getting your data into RStudio, cleaning it up, visualising it, and writing a report in RMarkdown. 
+This repo contains scraps of code that Jenny wrote while compiling [#RYouWithMe](https://rladiessydney.org/courses/), a beginners course that walks new users through the process of getting your data into RStudio, cleaning it up, visualising it, and writing a report in RMarkdown. 
 
-The repo for the RLadiesSydney website (and RYouWithMe course) is in this [github repo](https://github.com/jenrichmond/RLadiesSydney-blogdown)
+The repo for the RLadiesSydney website (and RYouWithMe course) is in this [github repo](https://github.com/rladiessydney/RLadiesSydney_website)
 
 The RYouWithMe videos that are embedded in the course are also available on youtube in these playlists. 
 
